@@ -1,0 +1,50 @@
+[
+  { 
+    names: ["Makar Sankranti", "Pongal"],
+    date: "2022 Jan 14"
+  },
+  {
+    names: ["Republic Day"],
+    date: "2022 Jan 26"
+  }, 
+  { 
+    names: ["Maha Shivaratri"],
+    date: "2022 Mar 01"
+  }, 
+  { 
+    names:["Holi"],
+    date: "2022 Mar 18"
+  },
+{
+    names:["Good Friday"],
+    date: "2022 Apr 15"
+},
+{
+    names:["Eid-ul-Fitr"],
+    date: "2022 May 03"
+},
+{
+    names:"Independenace Day",
+    date: "2022 Aug 15"
+}, 
+{ 
+   names: ["Janmashtami"],
+   date: "2022 Aug 19"
+},
+{ 
+    names: ["Ganesh Chaturthi"],
+    date: "2022 Aug 31",
+}, 
+{
+  names: ["Vijayadashmi"],
+  date: "2022 Oct 05"
+},
+ {
+    names: "Diwali", "Deepavali"],
+    date: "2022 Oct 24"
+ },
+ {
+   names: ["Karnataka Rajyotsava",  "Karnataka Formation Day"],
+   date: "2022 Nov 01"
+ }
+ ]
